@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BarraVida
+comment1.params=dono\ largura\ altura\ seguir\ deslocamentoY\ nome
+comment1.target=BarraVida(greenfoot.Actor,\ int,\ int,\ boolean,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ desenhar()
+numComments=4

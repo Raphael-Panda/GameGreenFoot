@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=inimigo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ inimigo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mundo
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ inimigo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment10.params=direita
+comment10.target=void\ olhar(boolean)
+comment2.params=mundo
+comment2.target=void\ criarBarra(greenfoot.World)
+comment3.params=
+comment3.target=inimigo()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=projetil_inimigo\ criarProjetil()
+comment6.params=alvo
+comment6.target=void\ atirar(heroi)
+comment7.params=dano
+comment7.target=void\ receberDano(int)
+comment8.params=
+comment8.target=int\ getVida()
+comment9.params=
+comment9.target=int\ getVidaMax()
+numComments=11
